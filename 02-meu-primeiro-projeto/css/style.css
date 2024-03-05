@@ -1,0 +1,26 @@
+body{
+    background-color: aqua;
+}
+
+table, th, td{
+    border: 1px solid black;
+    border-collapse: collapse;
+    padding: 8px;
+}
+
+/* th, td {
+    border: 1px solid red;
+
+} */
+
+p{
+    color: red;
+}
+
+h1{
+    color: blue; 
+}
+
+#paragrafo{
+    color: yellowgreen
+}
